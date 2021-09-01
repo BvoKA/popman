@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url('backgroung.jpg');
+}
+.container{
+    text-align: center; 
+}
+h1{
+    font-size: 8em;
+    margin: 1% 0% -3% 0%;
+    font-family: Nunito, sans-serif;
+    -webkit-text-stroke: 2px yellow;
+    color: yellow;
+}
+p{
+    font-size: 5em;
+    margin: 1% 0% -3% 0%;
+    font-family: Nunito, sans-serif;
+    -webkit-text-stroke: 2px black;
+    color: black;
+    margin-bottom: -4%;
+}
